@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iLauncher", "iLauncher\iLauncher.csproj", "{F949D991-A6F7-4A8F-9855-ED22D16463FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iMonitor", "iMonitor\iMonitor.csproj", "{C3E03DB8-8515-4229-9204-ED67DF63A450}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F949D991-A6F7-4A8F-9855-ED22D16463FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F949D991-A6F7-4A8F-9855-ED22D16463FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F949D991-A6F7-4A8F-9855-ED22D16463FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F949D991-A6F7-4A8F-9855-ED22D16463FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3E03DB8-8515-4229-9204-ED67DF63A450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3E03DB8-8515-4229-9204-ED67DF63A450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3E03DB8-8515-4229-9204-ED67DF63A450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3E03DB8-8515-4229-9204-ED67DF63A450}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14765E1B-2773-4C9A-85CB-2A9C762A78F1}
+	EndGlobalSection
+EndGlobal
